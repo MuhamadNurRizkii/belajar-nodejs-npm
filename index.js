@@ -11,9 +11,9 @@ const user = sayHello();
 console.log(user);
 
 const data = {
-  name: "Budi",
-  age: 20,
-  address: "Lupa",
+  name: "Andi",
+  age: 21,
+  address: "Gatau",
 };
 
 writeToFile("data.json", JSON.stringify(data, null, 2));
