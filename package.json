@@ -19,5 +19,8 @@
     "prestart": "echo 'Before Application Start'",
     "start": "node index.js",
     "poststart": "echo 'After Application Start'"
+  },
+  "dependencies": {
+    "lodash": "4.17.21"
   }
 }
